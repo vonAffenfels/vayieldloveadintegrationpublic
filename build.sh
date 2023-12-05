@@ -4,8 +4,8 @@
 # get carthage on mac with $brew install carthage
 
 # clean old build
-rm -rf ./carthage/
-rm -rf ./Cartfile.resolved
+rm -rf ./Carthage
+rm ./Cartfile.resolved
 
 # fix for "No available version for binary"
 rm -rf ~/Library/Caches/org.carthage.CarthageKit/
