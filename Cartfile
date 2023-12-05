@@ -1,0 +1,6 @@
+binary "https://slabs-yieldlove-ad-integration.s3.eu-central-1.amazonaws.com/ios/carthage/YieldloveAdIntegration/YieldloveAdIntegration.json" == 9.5.0
+
+binary "https://slabs-yieldlove-ad-integration.s3.eu-central-1.amazonaws.com/ios/carthage/YieldloveExternalConfiguration/YieldloveExternalConfiguration.json" == 0.19.0
+
+github "mxcl/PromiseKit" == 6.21.0
+github "prebid/prebid-mobile-ios" == 2.1.6-carthage
